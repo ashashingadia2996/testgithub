@@ -1,0 +1,19 @@
+{
+  "name": "testgithub",
+  "version": "1.0.3",
+  "description": "test package",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashashingadia2996/testgithub"
+  },
+  "license": "ISC",
+  "readme": "## Test Node package\n### updated package\n### latest update\n",
+  "readmeFilename": "README.md",
+  "_id": "testgithub@1.0.2",
+  "_from": "testgithub@"
+}
