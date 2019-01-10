@@ -1,5 +1,8 @@
 language: php
 php:
-  - '5.6'
-  - '7.0'
-  - '7.1' 
+- '5.6'
+- '7.0'
+- '7.1'
+env:
+  global:
+    secure: NBnJDxMO4B1cfQCj0raw3JckejzFA/tl4dWt3SuXBNQQkUVoNmLvyptdYqKaL5ytjrYDsZGpDPY5TC1T4XIS/t8XYn8kK/gIns4RusPmgdLlI5DyN3Xk79AZ/QDg2NzMGeknF476Wj2Ea++xJC2YTTTZES5Fb+XIUHA+YkVupqx0QhiwBzDC6fOtNA/0i7nYMHNqqTh4ccHZ71CB8w/uGt1h7jiwYpbhHs14Xqmx11oaNTcppE6tTC7u9DSer5mZ4q+D/px8Mp1YwroByeGX+YpNlWAJnYznGNJocfIHFG61IYhqdYrFNaHklmE8rGxywjUrfV3zGRK6w//FG2DZ2VFNHQLi6rs4S1L2hlOavq4UGUOwl6A3vO4cT6/xBUVeZyryPY78ZOI9z6wrGI3leucPVe+3oVVxSg1vCeKyIKKoBY3FecbLHh3LkRTnM2aAi8jAk6zKs5whJWcfb2gj3o+FDAowQ8K7s3qc2twz8ZXAzJoTqOc7571l70xJcPkNzh0axVuhu/5io96+rS2IOXLP/VRnFC6T2x2duO96vaSK21k0YVe+VRP/UIHpcYTwzq7ShwFlgP7ODjjctWOjdTR2tG9mD/VGH+rxjdtnDBSvw7Sqzt+hDmnaj36phte8L1RkNDOXj6pzRIEzk6Jkz9gbNaX56hxAZc7QkSJTHtI=
